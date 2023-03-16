@@ -1,0 +1,6 @@
+settings:
+  enabledPlugin: true
+  worlds:
+    world:
+      worldName: world
+      timeZone: Europe/Kiev

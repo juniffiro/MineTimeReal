@@ -1,0 +1,7 @@
+name: MineTimeReal
+version: 1.0.0
+author: Juniffiro
+main: ua.juniffiro.ms.timereal.Main
+commands:
+  rtreload:
+    description: Reloads plugin configuration.
